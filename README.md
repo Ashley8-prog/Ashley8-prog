@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ashley Molina and I'm a Full Stack Developer, from Costa Rica</p>  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+<p align="left">My name is Ashley Molina and I'm a Full Stack Developer, from Costa Rica</p>  
 
 
 ###
@@ -35,5 +35,7 @@
 
  
 </div>
+
+Find me in LinkedIn!! <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
 
 ###
