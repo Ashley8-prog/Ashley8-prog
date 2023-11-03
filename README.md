@@ -4,13 +4,6 @@
 
 <p align="left">My name is Ashley Molina and I'm a Full Stack Software Developer, from Costa Rica. Welcome to my GitHub!</p>  
 
-<h2 align="left">Look at my Linkedin 👩‍💻 </h2>
-
-<a href="https://www.linkedin.com/in/ashley-molina-araya-542736280/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-</a>
-
-###
 
 <h2 align="left">About me</h2>
 
@@ -21,6 +14,13 @@
 
 ###
 
+<h2 align="left">Look at my LinkedIn 👩‍💻 </h2>
+
+<a href="https://www.linkedin.com/in/ashley-molina-araya-542736280/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+</a>
+
+###
 <h2 align="left">I code with</h2>
 
 ###
