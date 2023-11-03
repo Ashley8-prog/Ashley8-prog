@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ashley Molina and I'm a Full Stack Developer, from Costa Rica</p>  
+<p align="left">My name is Ashley Molina and I'm a Full Stack Developer, from Costa Rica. Welcome to my GitHub!</p>  
 
 <a href="https://www.linkedin.com/in/ashley-molina-araya-542736280/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning React <br>🎯 Goals: learn new programming languages. Becoming in my best version programming. Find my dream job <br>🎲 Fun fact: I cry watching videos of dogs</p>
+<p align="left">📚 I'm currently working in a project called Geeks Coffee <br>🎯 Goals: Learn new programming languages. <br> Becoming in my best version programming. <br>Find my dream job <br> ⚡ In my free time I go to the gym, I also try to learn new programming languages ​​and I go to the dance academy to de-stress.🎲 Fun fact: I cry watching videos of dogs</p>
 
 
 ###
