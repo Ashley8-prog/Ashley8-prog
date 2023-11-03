@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">📚 I'm currently working in a project called Geeks Coffee <br>🎯 Goals: Learn new programming languages. <br> Becoming in my best version programming. <br>Find my dream job <br> ⚡ In my free time I go to the gym, I also try to learn new programming languages ​​and I go to the dance academy to de-stress.🎲 <br> Fun fact: I cry watching videos of dogs</p>
+<p align="left">📚 I'm currently working in a project called Geeks Coffee <br>🎯 Goals: Learn new programming languages. Find my dream job. Becoming in my best version programming. <br>⚡ In my free time I go to the gym, I also try to learn new programming languages ​​and I go to the dance academy to de-stress.🎲 <br> </p>
 
 
 ###
