@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ashley Molina and I'm a Full Stack Developer, from Costa Rica. Welcome to my GitHub!</p>  
+<p align="left">My name is Ashley Molina and I'm a Full Stack Software Developer, from Costa Rica. Welcome to my GitHub!</p>  
 
 <h2 align="left">Look at my Linkedin 👩‍💻 </h2>
 
