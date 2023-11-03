@@ -4,6 +4,8 @@
 
 <p align="left">My name is Ashley Molina and I'm a Full Stack Developer, from Costa Rica. Welcome to my GitHub!</p>  
 
+<h1 align="left">Look my Linkedin 👩‍💻 </h1>
+
 <a href="https://www.linkedin.com/in/ashley-molina-araya-542736280/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
 </a>
